@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# How to start application and install required packges.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is build with react Jsx format having details of daily todo Tasks.
 
 ## Available Scripts
 
@@ -13,6 +13,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `cd Frontend`
+
+redirect to the front end folder or directory.
+
+### `npm install`
+
+install required packages and modules for application.
 
 ### `npm test`
 
